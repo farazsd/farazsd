@@ -6,7 +6,7 @@
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: sarfarazahmad530@gmail.com
 - 😄 My website: https://farazfolio.netlify.app
-- ⚡ Fun fact: I'm comming to teen
+- ⚡ Fun fact: I'm going to get married
   
 ### Connect with me:
 <div id="badges">
